@@ -3,16 +3,33 @@
 . . . . . . . . . b 5 b . . . . 
 . . . . . . . . . b c . . . . . 
 . . . . . . b b b b b b . . . . 
-. . . . . b b 5 5 5 5 5 b . . . 
-. . . . b b 5 d 1 f 5 5 d f . . 
-. . . . b 5 5 1 f f 5 d 4 c . . 
-. . . . b 5 5 d f b d d 4 4 . . 
-b d d d b b d 5 5 5 4 4 4 4 4 b 
-b b d 5 5 5 b 5 5 4 4 4 4 4 b . 
-b d c 5 5 5 5 d 5 5 5 5 5 b . . 
+. . . . . 3 3 3 3 5 5 5 b . 3 . 
+. . . . 3 b 5 d 3 3 3 3 3 3 3 . 
+. . . 3 b 3 3 3 3 3 3 3 3 3 3 3 
+. . . 3 3 3 3 3 3 3 3 3 3 3 3 3 
+b d d 3 b b 3 3 5 5 4 4 4 4 3 3 
+b b d 3 5 3 3 5 5 4 4 4 4 4 3 3 
+b d c 3 3 5 5 d 5 5 5 5 5 b 3 3 
 c d d c d 5 5 b 5 5 5 5 5 5 b . 
 c b d d c c b 5 5 5 5 5 5 5 b . 
 . c d d d d d d 5 5 5 5 5 d b . 
 . . c b d d d d d 5 5 5 b b . . 
 . . . c c c c c c c c b b . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"r7jP+Yl-Pz{#Svv}/Um@"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="RgvLJ:1]K^LXZoOaJ6/f"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="H,N#,+|sR:y9sL,m6c^Q"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="|Lky5,#|-{s5/rn/o#Ir"><field name="VAR" id="4{]:,SoCIq?Ss8xb/07e">mySprite</field></block></value></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"r7jP+Yl-Pz{#Svv}/Um@"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="RgvLJ:1]K^LXZoOaJ6/f"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="H,N#,+|sR:y9sL,m6c^Q"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="|Lky5,#|-{s5/rn/o#Ir"><field name="VAR" id="4{]:,SoCIq?Ss8xb/07e">mySprite</field></block></value></block></next></block></next></block></statement></block><block type="spritescreatenoset" id="[3kZE*B$zIUS1~)(I@t?" disabled="true" x="70" y="430"><value name="img"><shadow type="screen_image_picker" id=":@uai;{UDetg{r:%m#ah" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":":@uai;{UDetg{r:%m#ah"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="zchQMj87+OufMd%Vr]PJ" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></xml>
